@@ -1,0 +1,16 @@
+---
+layout: astra 
+sidebar: sidebar 
+permalink: index.html 
+lead: 'Get started using Amazon S3 storage with your BlueXP system (formerly Cloud Manager).' 
+summary: 'Commencez à utiliser le stockage Amazon S3 avec votre système BlueXP (anciennement Cloud Manager).' 
+---
+= Documentation sur le stockage Amazon S3
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+

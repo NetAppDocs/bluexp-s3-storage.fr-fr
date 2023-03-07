@@ -1,0 +1,50 @@
+---
+sidebar: sidebar 
+permalink: task-s3-enable-data-services.html 
+keywords: s3 buckets, s3 storage, s3 working environment, amazon s3 buckets, amazon s3 working environment 
+summary: Une fois que vous avez identifié des compartiments S3 dans BlueXP, vous pouvez utiliser les services de données NetApp pour la sauvegarde, le Tiering, la classification et la synchronisation des données. 
+---
+= Utilisation des services de données NetApp avec compartiments S3
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Une fois que vous avez identifié des compartiments S3 dans BlueXP, vous pouvez utiliser les services de données NetApp pour la sauvegarde, le Tiering, la classification et la synchronisation des données.
+
+* Utilisez *Cloud Backup* pour sauvegarder les données de vos systèmes ONTAP et Cloud Volumes ONTAP sur site vers un stockage objet S3.
++
+Pour commencer, accédez au canevas et glissez-déposez un environnement de travail ONTAP ou Cloud Volumes ONTAP sur site dans votre environnement de travail Amazon S3.
+
++
+https://docs.netapp.com/us-en/cloud-manager-backup-restore/concept-ontap-backup-to-cloud.html["En savoir plus sur la sauvegarde des données ONTAP dans le stockage Amazon S3"^].
+
+* Utilisez *Cloud Tiering* pour hiérarchiser les données inactives des clusters ONTAP sur site vers un stockage objet S3.
++
+Pour commencer, accédez à la zone de travail et faites glisser un environnement de travail ONTAP sur site dans votre environnement de travail Amazon S3.
+
++
+https://docs.netapp.com/us-en/cloud-manager-tiering/task-tiering-onprem-aws.html["En savoir plus sur le Tiering des données ONTAP dans le stockage Amazon S3"^].
+
+* Utilisez *Cloud Sync* pour synchroniser des données vers ou depuis des compartiments S3.
++
+Pour commencer, accédez à Canvas et faites glisser et déposez l'environnement de travail source sur l'environnement de travail cible. Votre environnement de travail Amazon S3 peut être la source ou la cible.
+
++
+Vous pouvez également sélectionner votre environnement de travail Amazon S3 et cliquer sur *Synchroniser les données* dans le panneau Services pour synchroniser les données avec ou depuis les compartiments S3.
+
++
+https://docs.netapp.com/us-en/cloud-manager-sync/concept-cloud-sync.html["En savoir plus sur le service Cloud Sync"^].
+
+* Utilisez *Cloud Data Sense* pour analyser vos compartiments S3 à la recherche de données personnelles et sensibles. Cloud Data Sense peut analyser tous les compartiments du compte, qu'ils aient été créés ou non pour une solution NetApp.
++
+Pour commencer, sélectionnez votre environnement de travail Amazon S3 et sélectionnez l'option appropriée dans la section *Classification* du panneau Services pour lancer la numérisation de vos compartiments S3.
+
++
+https://docs.netapp.com/us-en/cloud-manager-data-sense/task-scanning-s3.html["En savoir plus sur le service Cloud Data Sense"^].
+
+

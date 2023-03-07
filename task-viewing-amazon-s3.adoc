@@ -1,0 +1,49 @@
+---
+sidebar: sidebar 
+permalink: task-viewing-amazon-s3.html 
+keywords: s3 buckets, s3 storage, s3 working environment, amazon s3 buckets, amazon s3 working environment 
+summary: Une fois que vous avez installé un connecteur dans AWS, BlueXP peut détecter automatiquement les informations relatives aux compartiments Amazon S3 qui résident dans le compte AWS où le connecteur est installé. Un environnement de travail Amazon S3 est ajouté à Canvas pour que vous puissiez visualiser ces informations. 
+---
+= Affichage des compartiments Amazon S3
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Une fois que vous avez installé un connecteur dans AWS, BlueXP peut détecter automatiquement les informations relatives aux compartiments Amazon S3 qui résident dans le compte AWS où le connecteur est installé. Un environnement de travail Amazon S3 est ajouté à Canvas pour que vous puissiez visualiser ces informations.
+
+Vous pouvez afficher des informations détaillées sur vos compartiments S3, notamment la région, les règles d'accès, le compte, la capacité totale et utilisée. Ces compartiments peuvent être utilisés comme destinations pour les opérations Cloud Backup, Cloud Tiering ou Cloud Sync. Vous pouvez également utiliser Cloud Data Sense pour scanner ces compartiments.
+
+.Étapes
+. https://docs.netapp.com/us-en/cloud-manager-setup-admin/task-creating-connectors-aws.html["Installer un connecteur"^] Dans le compte AWS où vous souhaitez afficher vos compartiments Amazon S3.
+. Dans le menu de navigation, sélectionnez *stockage > Canvas*.
++
+Votre environnement de travail Amazon S3 s'affiche automatiquement peu de temps après.
+
++
+image:screenshot-amazon-s3-we.png["Copie d'écran d'un environnement de travail Amazon S3."]
+
+. Cliquez sur l'environnement de travail et sélectionnez une action dans le volet de droite si vous souhaitez activer les services BlueXP avec votre stockage S3.
++
+image:screenshot-amazon-s3-actions.png["Capture d'écran du volet actions après la sélection d'un environnement de travail Amazon S3. Le volet affiche des informations sur S3 : le nombre de compartiments et les services disponibles."]
+
++
+link:task-s3-enable-data-services.html["Découvrez quels services BlueXP sont disponibles et comment les utiliser avec vos compartiments S3"].
+
+. Cliquez sur *entrer l'environnement de travail* ou double-cliquez sur l'environnement de travail pour afficher les détails des compartiments S3 de votre compte AWS.
++
+image:screenshot-amazon-s3-buckets.png["Capture d'écran affichant les détails d'un environnement de travail Amazon S3 : nombre total de compartiments et nombre total de régions, et tableau présentant les détails de chaque compartiment S3."]
+
++
+Outre les colonnes qui apparaissent par défaut, vous pouvez faire défiler la page pour afficher des propriétés supplémentaires pour le compartiment, par exemple le nombre de balises et si le verrouillage d'objet ou la gestion des versions ont été activés.
+
+
+
+.Et la suite
+Vous pouvez modifier certains paramètres de compartiment directement à partir de BlueXP en cliquant sur image:button-horizontal-more.gif["le bouton trois points plus"] pour un godet. link:task-change-s3-bucket-settings.html["Cliquez ici pour plus d'informations"].
+
+Vous pouvez ajouter de nouveaux compartiments S3 en cliquant sur *Ajouter un compartiment*. link:task-add-s3-bucket.html["Cliquez ici pour plus d'informations"].
