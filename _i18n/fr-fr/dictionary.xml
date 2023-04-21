@@ -2,7 +2,6 @@
 <blocks>
   <block id="efd9710de9c698fbbeb7b7b11597f70b" category="summary">Une fois que vous avez installé un connecteur dans AWS, BlueXP peut détecter automatiquement les informations relatives aux compartiments Amazon S3 qui résident dans le compte AWS où le connecteur est installé. Un environnement de travail Amazon S3 est ajouté à Canvas pour que vous puissiez visualiser ces informations.</block>
   <block id="f7099ec977551c0bfc4264472c0bf927" category="doc">Affichage des compartiments Amazon S3</block>
-  <block id="bf9799ea7692475c7cf9755a148ec201" category="paragraph">Vous pouvez afficher des informations détaillées sur vos compartiments S3, notamment la région, les règles d'accès, le compte, la capacité totale et utilisée. Ces compartiments peuvent être utilisés comme destinations pour les opérations Cloud Backup, Cloud Tiering ou Cloud Sync. Vous pouvez également utiliser Cloud Data Sense pour scanner ces compartiments.</block>
   <block id="f3a29486bed19a90f2da6d007818b427" category="list-title">Étapes</block>
   <block id="9c626900b015a97ee8e428d66dd7d5d1" category="inline-link">Installer un connecteur</block>
   <block id="69e6c31f6140607f08425260f2faecb5" category="list-text">Dans le menu de navigation, sélectionnez *stockage &gt; Canvas*.</block>
@@ -133,24 +132,14 @@
   <block id="e8a6d0f19a957eac14b9917a6c92899b" category="paragraph"><block ref="e8a6d0f19a957eac14b9917a6c92899b" category="inline-link-rx"></block></block>
   <block id="5617fc4c90db2216d4ba9da3ed61d8ee" category="summary">Une fois que vous avez identifié des compartiments S3 dans BlueXP, vous pouvez utiliser les services de données NetApp pour la sauvegarde, le Tiering, la classification et la synchronisation des données.</block>
   <block id="49b9d9b89078e5e4f47991c877526750" category="doc">Utilisation des services de données NetApp avec compartiments S3</block>
-  <block id="db0f7065ba0a96411a0de05280ec7352" category="list-text">Utilisez *Cloud Backup* pour sauvegarder les données de vos systèmes ONTAP et Cloud Volumes ONTAP sur site vers un stockage objet S3.</block>
   <block id="7eb41a611de377805e9a7df9b3ae691b" category="paragraph">Pour commencer, accédez au canevas et glissez-déposez un environnement de travail ONTAP ou Cloud Volumes ONTAP sur site dans votre environnement de travail Amazon S3.</block>
   <block id="7b7fcd600f1d926ca9fe6a7cb21750f2" category="inline-link">En savoir plus sur la sauvegarde des données ONTAP dans le stockage Amazon S3</block>
   <block id="16c28e3d84a53771a1a9299bf39e52c2" category="paragraph"><block ref="4ecde652b89e6f04e3058b0cb9af264c" category="inline-link-rx"></block>.</block>
-  <block id="7202459e7043ba4b6f866b6aa920e679" category="list-text">Utilisez *Cloud Tiering* pour hiérarchiser les données inactives des clusters ONTAP sur site vers un stockage objet S3.</block>
   <block id="3e0f8335010aedcfb82affccaacd20ec" category="paragraph">Pour commencer, accédez à la zone de travail et faites glisser un environnement de travail ONTAP sur site dans votre environnement de travail Amazon S3.</block>
   <block id="a9dee648c451dbc4fdeeab5bcb9014ed" category="inline-link">En savoir plus sur le Tiering des données ONTAP dans le stockage Amazon S3</block>
   <block id="9858a8b4f4f88f76a27f43472f5f6ca4" category="paragraph"><block ref="fa191a4a135c670d0161f99d5ad270e4" category="inline-link-rx"></block>.</block>
-  <block id="0e1d535f7ffeb46d1cedce4380540ece" category="list-text">Utilisez *Cloud Sync* pour synchroniser des données vers ou depuis des compartiments S3.</block>
   <block id="b1e27059ba7694353c38efd583f70d7c" category="paragraph">Pour commencer, accédez à Canvas et faites glisser et déposez l'environnement de travail source sur l'environnement de travail cible. Votre environnement de travail Amazon S3 peut être la source ou la cible.</block>
-  <block id="ab9e49315276ae32c73ed19323492c14" category="paragraph">Vous pouvez également sélectionner votre environnement de travail Amazon S3 et cliquer sur *Synchroniser les données* dans le panneau Services pour synchroniser les données avec ou depuis les compartiments S3.</block>
-  <block id="d7ac8297012a05979b15d24f9d3b130c" category="inline-link">En savoir plus sur le service Cloud Sync</block>
-  <block id="1bd2d5ff3aeebe1a238c886f7388e42f" category="paragraph"><block ref="9349c5ab3057a0ff71d35b794d6794a5" category="inline-link-rx"></block>.</block>
-  <block id="024e60ab8f7a88270d46c6aed054f6bd" category="list-text">Utilisez *Cloud Data Sense* pour analyser vos compartiments S3 à la recherche de données personnelles et sensibles. Cloud Data Sense peut analyser tous les compartiments du compte, qu'ils aient été créés ou non pour une solution NetApp.</block>
   <block id="55bd7bd6bf396c28ae8aca1611f8ee53" category="paragraph">Pour commencer, sélectionnez votre environnement de travail Amazon S3 et sélectionnez l'option appropriée dans la section *Classification* du panneau Services pour lancer la numérisation de vos compartiments S3.</block>
-  <block id="febefe350001907b76b53ef88b63361e" category="inline-link">En savoir plus sur le service Cloud Data Sense</block>
-  <block id="3ef78a45208afe4b2f2ca2cdade6c100" category="paragraph"><block ref="4ba69bfe1627585dab52e6f3cbb737bc" category="inline-link-rx"></block>.</block>
-  <block id="f5b5c580cdea371eec20c3e34f9c28d4" category="summary">Commencez à utiliser le stockage Amazon S3 avec votre système BlueXP (anciennement Cloud Manager).</block>
   <block id="3bcfa77ba520ecdb90dbb673cc23cb5e" category="doc">Documentation sur le stockage Amazon S3</block>
   <block id="f54c8c1223f73d87869999847d1ae49e" category="summary">Découvrez les nouveautés du stockage Amazon S3 dans BlueXP.</block>
   <block id="9a8d5d2b68f540bdc8d48d6f59172160" category="doc">Nouveautés du stockage Amazon S3 dans BlueXP</block>
@@ -291,4 +280,15 @@
   <block id="8e6b52a532a4fbbfc98dca3ebfa5f1e6" category="list-text">*Mettre à jour les notes de cas* : fournir des détails supplémentaires sur votre problème ou sélectionner *Télécharger les fichiers* pour joindre jusqu'à cinq fichiers.</block>
   <block id="942c9249796cf6b78c981ebf15195809" category="list-text"><block ref="942c9249796cf6b78c981ebf15195809" category="inline-link-rx"></block></block>
   <block id="33f05c582a652d788edcb0b74a401a92" category="list-text"><block ref="c626d18348452ff034d9c34b877c8510" category="inline-link-rx"></block> Dans le compte AWS où vous souhaitez afficher vos compartiments Amazon S3.</block>
+  <block id="6f398b0701e7de915bb04028de8bb878" category="summary">Commencez à utiliser le stockage Amazon S3 avec votre système BlueXP.</block>
+  <block id="55d43ef1b3aadb22506c7c638269e01f" category="list-text">Utilisez *BlueXP Backup and Recovery* pour sauvegarder les données de vos systèmes ONTAP et Cloud Volumes ONTAP sur site vers un stockage objet S3.</block>
+  <block id="e9e23123fd45494a9875ecbf65b7c4c2" category="list-text">Utilisez *le Tiering BlueXP* pour hiérarchiser les données inactives des clusters ONTAP sur site vers un stockage objet S3.</block>
+  <block id="abf72b99927199c83ae30fe49e03ad1f" category="list-text">Utilisez *la copie et la synchronisation BlueXP* pour synchroniser les données depuis et vers des compartiments S3.</block>
+  <block id="206ea88fa47e88b7036f838bb0a17b5b" category="paragraph">Vous pouvez également sélectionner votre environnement de travail Amazon S3 et cliquer sur *Copier et synchroniser* dans le panneau Services pour synchroniser les données avec ou depuis les compartiments S3.</block>
+  <block id="f850079a6ff3f16354189a6475029756" category="inline-link">En savoir plus sur le service de copie et de synchronisation BlueXP</block>
+  <block id="5d0005389917956f669c6c8a2bdb9021" category="paragraph"><block ref="38c89c9372e10aa3cf45428e5f26fe27" category="inline-link-rx"></block>.</block>
+  <block id="648a3a428fc442c8406158cb9e5afb20" category="list-text">Utilisez *la classification BlueXP* pour analyser vos compartiments S3 à la recherche de données personnelles et sensibles. La classification BlueXP peut analyser n'importe quel compartiment du compte, qu'il ait été créé ou non pour une solution NetApp.</block>
+  <block id="79dc7a5f3247a2e3c1f0302827271c0e" category="inline-link">En savoir plus sur le service de classification BlueXP</block>
+  <block id="f44d04f198e327aac7307493564b4f16" category="paragraph"><block ref="9a556273b74cb7e85645de2561f90023" category="inline-link-rx"></block>.</block>
+  <block id="a1b1ace9d93b9726388b0450fcf0ead8" category="paragraph">Vous pouvez afficher des informations détaillées sur vos compartiments S3, notamment la région, les règles d'accès, le compte, la capacité totale et utilisée. Ces compartiments peuvent être utilisés comme destinations pour la sauvegarde et la restauration BlueXP, le Tiering BlueXP ou les opérations de copie et de synchronisation BlueXP. En outre, vous pouvez utiliser la classification BlueXP pour analyser ces compartiments.</block>
 </blocks>

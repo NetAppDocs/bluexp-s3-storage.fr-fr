@@ -16,7 +16,7 @@ summary: Une fois que vous avez installé un connecteur dans AWS, BlueXP peut d�
 [role="lead"]
 Une fois que vous avez installé un connecteur dans AWS, BlueXP peut détecter automatiquement les informations relatives aux compartiments Amazon S3 qui résident dans le compte AWS où le connecteur est installé. Un environnement de travail Amazon S3 est ajouté à Canvas pour que vous puissiez visualiser ces informations.
 
-Vous pouvez afficher des informations détaillées sur vos compartiments S3, notamment la région, les règles d'accès, le compte, la capacité totale et utilisée. Ces compartiments peuvent être utilisés comme destinations pour les opérations Cloud Backup, Cloud Tiering ou Cloud Sync. Vous pouvez également utiliser Cloud Data Sense pour scanner ces compartiments.
+Vous pouvez afficher des informations détaillées sur vos compartiments S3, notamment la région, les règles d'accès, le compte, la capacité totale et utilisée. Ces compartiments peuvent être utilisés comme destinations pour la sauvegarde et la restauration BlueXP, le Tiering BlueXP ou les opérations de copie et de synchronisation BlueXP. En outre, vous pouvez utiliser la classification BlueXP pour analyser ces compartiments.
 
 .Étapes
 . https://docs.netapp.com/us-en/cloud-manager-setup-admin/task-quick-start-connector-aws.html["Installer un connecteur"^] Dans le compte AWS où vous souhaitez afficher vos compartiments Amazon S3.
