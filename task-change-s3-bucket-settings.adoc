@@ -35,7 +35,7 @@ image:screenshot-edit-amazon-s3-bucket.png["Une capture d'écran montrant commen
 
 La gestion de versions vous permet de conserver plusieurs versions d'un objet dans un compartiment afin de restaurer les objets qui sont accidentellement supprimés ou remplacés. Vous pouvez modifier le paramètre de gestion des versions pour les objets futurs lorsqu'ils sont ajoutés au compartiment. La modification du paramètre de gestion des versions ne modifie pas la valeur des objets existants.
 
-La gestion des versions est désactivée par défaut dans les nouveaux compartiments créés par BlueXP, sauf si vous avez activé le verrouillage des objets lors de la création du compartiment. https://["Pour en savoir plus sur la gestion des versions, consultez la documentation Amazon S3"^].
+La gestion des versions est désactivée par défaut dans les nouveaux compartiments créés par BlueXP, sauf si vous avez activé le verrouillage des objets lors de la création du compartiment. https://docs.aws.amazon.com/AmazonS3/latest/userguide/Versioning.html["Pour en savoir plus sur la gestion des versions, consultez la documentation Amazon S3"^].
 
 Une fois activé, si vous souhaitez arrêter temporairement ou définitivement la gestion des versions, vous pouvez choisir l'état « suspendu ». Vous ne pouvez pas désactiver la gestion des versions une fois qu'elle a été activée.
 
@@ -47,7 +47,7 @@ image:screenshot-amazon-s3-versioning.png["Une capture d'écran montrant comment
 
 Les balises sont des métadonnées que vous pouvez utiliser pour regrouper les ressources afin d'identifier les applications, les environnements, les régions, les fournisseurs de cloud, etc. Les balises sont constituées d'une clé de balise et d'une valeur de balise. Vous pouvez ajouter des balises à un compartiment de sorte que les balises soient appliquées aux objets lors de leur ajout. Vous pouvez également modifier et supprimer des balises et des valeurs de balises.
 
-Les balises sont désactivées par défaut dans les nouveaux compartiments créés par BlueXP. https://["Pour en savoir plus sur le balisage, consultez la documentation Amazon S3"^].
+Les balises sont désactivées par défaut dans les nouveaux compartiments créés par BlueXP. https://docs.aws.amazon.com/AmazonS3/latest/userguide/object-tagging.html["Pour en savoir plus sur le balisage, consultez la documentation Amazon S3"^].
 
 image:screenshot-amazon-s3-tags.png["Une capture d'écran montrant comment ajouter une nouvelle paire clé/valeur de balise pour un compartiment."]
 
@@ -59,7 +59,7 @@ Après avoir ajouté une balise, cliquez sur *appliquer* pour enregistrer vos mo
 
 Le chiffrement côté serveur vous permet de chiffrer les données au niveau de la destination Amazon S3. Amazon S3 chiffre vos données au niveau de l'objet lors de leur écriture sur le disque, puis les décrypte lorsque vous y accédez. Vous pouvez modifier le paramètre de chiffrement utilisé pour les objets futurs lorsqu'ils sont ajoutés au compartiment.
 
-Le chiffrement est activé par défaut à l'aide de « clés gérées Amazon S3 (SSE-S3) » dans les nouveaux compartiments créés par BlueXP. https://["Pour en savoir plus sur le chiffrement côté serveur, consultez la documentation Amazon S3"^].
+Le chiffrement est activé par défaut à l'aide de « clés gérées Amazon S3 (SSE-S3) » dans les nouveaux compartiments créés par BlueXP. https://docs.aws.amazon.com/AmazonS3/latest/userguide/serv-side-encryption.html["Pour en savoir plus sur le chiffrement côté serveur, consultez la documentation Amazon S3"^].
 
 Vous pouvez également choisir d'activer le chiffrement à l'aide de la « clé AWS Key Management Service (SSE-KMS) ». Le chiffrement est également possible à l'aide de vos propres clés client (SSE-C), mais cette fonctionnalité n'est pas disponible via l'interface utilisateur BlueXP. Vous devez utiliser l'interface Amazon.
 
@@ -69,4 +69,4 @@ Si vous choisissez « AWS Key Management Service Key (SSE-KMS) », vous pouvez c
 
 image:screenshot-amazon-s3-encryption2.png["Une capture d'écran montrant comment sélectionner d'autres paramètres de chiffrement pour un compartiment."]
 
-https://["Pour en savoir plus sur AWS Key Management Service, consultez la documentation d'Amazon S3"^] et environ https://["Utilisation de clés client ou de clés AWS"^].
+https://docs.aws.amazon.com/AmazonS3/latest/userguide/UsingKMSEncryption.html["Pour en savoir plus sur AWS Key Management Service, consultez la documentation d'Amazon S3"^] et environ https://docs.aws.amazon.com/kms/latest/developerguide/concepts.html#key-mgmt["Utilisation de clés client ou de clés AWS"^].
