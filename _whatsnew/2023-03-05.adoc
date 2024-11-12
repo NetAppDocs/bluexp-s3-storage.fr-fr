@@ -1,5 +1,7 @@
 = Possibilité d'ajouter de nouveaux compartiments à partir de BlueXP
 :allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
 
 
 
