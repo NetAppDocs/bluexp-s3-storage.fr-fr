@@ -41,56 +41,9 @@
   <block id="daf6241c571815ccb6a2fba56c3d3d3a" category="paragraph">Vous ne pouvez pas configurer manuellement la gestion des versions, les balises ou le chiffrement lors de l'ajout initial d'un compartiment. Une fois le compartiment créé, vous pouvez configurer ces autres propriétés du compartiment. <block ref="b8a8855fb27be3598054e27761fb286f" category="inline-link-macro-rx"></block>.</block>
   <block id="c9df4195a305212ffd7b56d24f67129d" category="summary">NetApp prend en charge BlueXP de plusieurs façons. De nombreuses options d'auto-assistance gratuites sont disponibles 24 h/24 et 7 j/7, comme des articles de la base de connaissances (KB) et un forum communautaire. Votre inscription au support inclut un support technique à distance via la création de tickets en ligne.</block>
   <block id="fabfc25ef8996fd90836e58a4c0b26b6" category="doc">Obtenez de l'aide</block>
-  <block id="7c5661ab6b39ee901cea00a6e7020a49" category="paragraph">NetApp prend en charge BlueXP et ses services cloud de différentes manières. De nombreuses options d'auto-assistance gratuites sont disponibles 24 h/24 et 7 j/7, comme des articles de la base de connaissances (KB) et un forum communautaire. Votre inscription au support inclut un support technique à distance via la création de tickets en ligne.</block>
-  <block id="edd15fbeb7b2dffa163336ecd4f3e80c" category="section-title">Utilisation d'options de support en libre-service</block>
-  <block id="5e4b821a1a82558dead1ef6961e90666" category="paragraph">Ces options sont disponibles gratuitement, 24 heures sur 24, 7 jours sur 7 :</block>
-  <block id="19111351b69b6b15668130b38b7f6038" category="inline-link">Base de connaissances</block>
-  <block id="9a3db1abe5491d0eb9bb5d125981356c" category="paragraph">Recherchez dans la base de connaissances BlueXP des articles utiles pour résoudre les problèmes.</block>
-  <block id="14526abd8bda5af347775025cd5342cf" category="inline-link">Communautés</block>
-  <block id="410fdb9caa9c64da2ff3f88f4836960d" category="list-text"><block ref="410fdb9caa9c64da2ff3f88f4836960d" category="inline-link-rx"></block></block>
-  <block id="00c5fef3bb9d593ae96bf5d2ee60354a" category="paragraph">Rejoignez la communauté BlueXP pour suivre des discussions en cours ou en créer de nouveaux.</block>
-  <block id="5b6cf869265c13af8566f192b4ab3d2a" category="list-text">Documentation</block>
-  <block id="a4a6c2ea0078252eac2d74ef3e6c917c" category="paragraph">La documentation BlueXP que vous consultez actuellement.</block>
-  <block id="d88bacf2a9fdcbbc844edcba97c34e30" category="section-title">Créez un dossier de demande de support auprès du support NetApp</block>
-  <block id="82812db645b6ff5e9c2a24ddfb66c8d6" category="paragraph">Outre les options d'auto-support mentionnées ci-dessus, vous pouvez travailler avec un spécialiste du support NetApp pour résoudre tous les problèmes après avoir activé le service de support.</block>
-  <block id="8fece025a1a8fef7018449bf104a2527" category="paragraph-title">Avant de commencer</block>
-  <block id="08d96fdd1a845d80db99e6e1dffb8bc7" category="list-text">Sur la page *Ressources*, choisissez l'une des options disponibles sous support technique :</block>
-  <block id="d63bf50426f4c712554faec55b30c548" category="list-text">*Service* : sélectionnez le service auquel le problème est associé. Par exemple, BlueXP lorsqu'il est spécifique à un problème de support technique avec des flux de travail ou des fonctionnalités au sein du service.</block>
-  <block id="2e50c5f85523f0aba9ff2db10f18279c" category="list-text">*Environnement de travail* : si applicable au stockage, sélectionnez *Cloud Volumes ONTAP* ou *sur site*, puis l'environnement de travail associé.</block>
-  <block id="e6f29fb3c7636dc0040600dd0e84bb79" category="list-text">*Priorité du cas* : choisissez la priorité du cas, qui peut être faible, Moyen, élevé ou critique.</block>
-  <block id="835eb4008e97c2a7f69bbb2725285e34" category="paragraph">Pour en savoir plus sur ces priorités, passez votre souris sur l'icône d'information située à côté du nom du champ.</block>
-  <block id="0f7d9319c95a8be1492e74601c4b3259" category="list-text">*Description du problème* : fournir une description détaillée de votre problème, y compris les messages d'erreur ou les étapes de dépannage applicables que vous avez effectués.</block>
-  <block id="002c6f26fb01affb37b8cf3cef7a1fb0" category="list-text">*Adresses e-mail supplémentaires*: Entrez des adresses e-mail supplémentaires si vous souhaitez informer quelqu'un d'autre de ce problème.</block>
-  <block id="baaf0e61add7d12cf8d12e023d5aef18" category="inline-image-macro">Capture d'écran du formulaire Créer un dossier qui vous permet de créer un dossier auprès du support NetApp.</block>
   <block id="bd965e38a0c9cf27aa1bde099308e23f" category="paragraph-title">Une fois que vous avez terminé</block>
-  <block id="18f487556417bb6d9721a7005ae097c9" category="paragraph">Une fenêtre contextuelle contenant votre numéro de dossier de support s'affiche. Un spécialiste du support NetApp va étudier votre dossier et vous recontacterons très rapidement.</block>
-  <block id="5c56753585e89a84941bb3a78bc681af" category="paragraph">Il est possible que vous rencontriez le message d'erreur suivant lors de la création d'un dossier :</block>
-  <block id="a30f69ab0ec85d427a3e8835713525bd" category="paragraph">« Vous n'êtes pas autorisé à créer un dossier pour le service sélectionné »</block>
-  <block id="e01df0b4dfd95eba2c59333419e4fac6" category="list-text">Utilisez le chat du produit</block>
   <block id="d41d8cd98f00b204e9800998ecf8427e" category="inline-link"></block>
-  <block id="639be990cfca56ab4b63685d8bacd437" category="list-text">Soumettre un dossier non technique à<block ref="2298f47e4dad19a3156da7ce6116d9b1" category="inline-link-rx"></block></block>
-  <block id="898e35e1a4bf4b025c3edec879439b08" category="section-title">Gestion de vos dossiers de demande de support (aperçu)</block>
-  <block id="8b74b053fbeeff5c3b6f4991cb1d028d" category="paragraph">Vous pouvez afficher et gérer les dossiers de support actifs et résolus directement à partir de BlueXP. Vous pouvez gérer les dossiers associés à votre compte NSS et à votre entreprise.</block>
-  <block id="394ef093ad3259b9ff0fe7406f015b83" category="paragraph">La gestion des dossiers est disponible en tant qu'aperçu. Nous prévoyons d'affiner cette expérience et d'ajouter des améliorations dans les prochaines versions. Envoyez-nous vos commentaires à l'aide de l'outil de chat In-Product.</block>
   <block id="cf3a2d2c139bf5c9cc87fe714bfff3b1" category="paragraph">Notez ce qui suit :</block>
-  <block id="5e4e7672ec2ba2b8a763da7f6714e212" category="list-text">Le tableau de bord de gestion des dossiers en haut de la page propose deux vues :</block>
-  <block id="01c3ffea552d74a5ae390b10e71a1f26" category="list-text">La vue de gauche affiche le nombre total de dossiers ouverts au cours des 3 derniers mois par le compte NSS utilisateur que vous avez fourni.</block>
-  <block id="e3b6c09a5686233f72ce1ea60a1eb088" category="list-text">La vue de droite affiche le nombre total de dossiers ouverts au cours des 3 derniers mois au niveau de votre entreprise en fonction de votre compte NSS utilisateur.</block>
-  <block id="b19b168cc8a2b8c984465e140256b3a2" category="paragraph">Les résultats du tableau reflètent les cas liés à la vue que vous avez sélectionnée.</block>
-  <block id="56dcadeee6b0e5c47a52673f9b5a0bb3" category="list-text">Vous pouvez ajouter ou supprimer des colonnes d'intérêt et filtrer le contenu des colonnes telles que priorité et Statut. D'autres colonnes offrent uniquement des fonctions de tri.</block>
-  <block id="6f936762e1223311f031685422fcd3a4" category="paragraph">Pour plus d'informations, consultez les étapes ci-dessous.</block>
-  <block id="b14929795a61440e9b4ec9f8a4885ae3" category="list-text">Au niveau de chaque dossier, nous offrons la possibilité de mettre à jour les notes de dossier ou de fermer un dossier qui n'est pas déjà à l'état fermé ou en attente fermée.</block>
-  <block id="d8ce1865cf1fe3cffd60300b4b86ad63" category="paragraph">La page *gestion des cas* affiche les cas ouverts associés au compte NSS associé à votre compte utilisateur BlueXP. Il s'agit du même compte NSS qui apparaît en haut de la page *gestion NSS*.</block>
-  <block id="2ae5ae78bdb2d222f15fd8e89248709c" category="list-text">Modifiez éventuellement les informations qui s'affichent dans le tableau :</block>
-  <block id="059e856250b59be3069246887b74a23c" category="list-text">Modifiez la plage de dates en choisissant une plage de dates exacte ou en choisissant une autre période.</block>
-  <block id="dfb3764bce2548df4e06357403f9c7d0" category="inline-image-macro">Capture d'écran de l'option au-dessus du tableau de la page gestion des cas qui vous permet de choisir une plage de dates exacte ou les 7 derniers jours, 30 derniers jours ou 3 derniers mois.</block>
-  <block id="a1bb576be9e5a356290f231efb51b3f5" category="list-text">Filtrez le contenu des colonnes.</block>
-  <block id="3753f10a59e21f58b30e3e67d416453e" category="inline-image-macro">Capture d'écran de l'option de filtre dans la colonne État qui vous permet de filtrer les dossiers correspondant à un état spécifique, comme actif ou fermé.</block>
-  <block id="1c6ea5ef583389e18e7d7bda70beaa71" category="inline-image-macro">Icône plus qui apparaît dans le tableau</block>
-  <block id="370b44009f1b82d0b6b178bb80cc62fa" category="inline-image-macro">Capture d'écran affichant les colonnes que vous pouvez afficher dans le tableau.</block>
-  <block id="ad0ae9ea1f2e8d973a9a0f6bb169f494" category="inline-image-macro">Icône avec trois points qui apparaît dans la dernière colonne du tableau</block>
-  <block id="6d9dd74e7709ef802d299966f7898f6b" category="list-text">*Voir cas*: Afficher tous les détails sur un cas spécifique.</block>
-  <block id="e93217b2f709a398ce3c0fb753beb05f" category="inline-image-macro">Capture d'écran qui montre les actions que vous pouvez effectuer après avoir sélectionné le menu dans la dernière colonne du tableau.</block>
   <block id="30d965eef5ba25c6b9998ae38270b43e" category="doc">Mentions légales</block>
   <block id="e9c44bbfd795a5d63d74c6a77afee70d" category="paragraph">Les mentions légales donnent accès aux déclarations de copyright, aux marques, aux brevets, etc.</block>
   <block id="6016a2b341113bf496b719905398ecd2" category="section-title">Droits d'auteur</block>
@@ -156,7 +109,6 @@
   <block id="42748df9eaa0be17ddc5cc1593cf57ab" category="doc">S'inscrire pour obtenir de l'aide</block>
   <block id="18cf072964a583150dd247485ba75b92" category="inline-link-macro">Amazon FSX pour ONTAP</block>
   <block id="7450cfde7058dc5e1f7909d0280fd7ae" category="inline-link-macro">Azure NetApp Files</block>
-  <block id="b0cee72642f5457a71ddd0b49efb6d93" category="inline-link-macro">Cloud Volumes Service pour Google Cloud</block>
   <block id="0b0e252af8897fbe981ec6682d2aa33b" category="section-title">Présentation de l'inscription au support</block>
   <block id="192054ad7601240a3e8be54cc5cc548e" category="paragraph">Il existe deux types d'inscription pour activer les droits d'assistance :</block>
   <block id="23fdcbefa6d9cd877be7ceb7a18bb936" category="paragraph">Il sert d'ID d'abonnement unique pour tous les services de BlueXP. Chaque abonnement au support BlueXP au niveau du compte doit être enregistré.</block>
@@ -199,10 +151,6 @@
   <block id="e11597621f115e17031710501eefedbc" category="sidebar">Affichez vos compartiments Amazon S3</block>
   <block id="fd1c68085eeae378471bac9bc817b052" category="sidebar">Gestion des compartiments S3</block>
   <block id="0adc03eac86772ad2c75c8f140be417e" category="sidebar">Connaissances et support</block>
-  <block id="c7f5c1a75acc58c6f004efc0ce1eba09" category="list-text">*Pièce jointe (facultatif)* : téléchargez jusqu'à cinq pièces jointes, une à la fois.</block>
-  <block id="bfa80e7aaad6da353b431bff3a0e12d6" category="paragraph">Les pièces jointes sont limitées à 25 Mo par fichier. Les extensions de fichier suivantes sont prises en charge : txt, log, PDF, jpg/JPEG, rtf, doc/docx, xls/xlsx et csv.</block>
-  <block id="8e6b52a532a4fbbfc98dca3ebfa5f1e6" category="list-text">*Mettre à jour les notes de cas* : fournir des détails supplémentaires sur votre problème ou sélectionner *Télécharger les fichiers* pour joindre jusqu'à cinq fichiers.</block>
-  <block id="942c9249796cf6b78c981ebf15195809" category="list-text"><block ref="942c9249796cf6b78c981ebf15195809" category="inline-link-rx"></block></block>
   <block id="6f398b0701e7de915bb04028de8bb878" category="summary">Commencez à utiliser le stockage Amazon S3 avec votre système BlueXP.</block>
   <block id="55d43ef1b3aadb22506c7c638269e01f" category="list-text">Utilisez *BlueXP Backup and Recovery* pour sauvegarder les données de vos systèmes ONTAP et Cloud Volumes ONTAP sur site vers un stockage objet S3.</block>
   <block id="e9e23123fd45494a9875ecbf65b7c4c2" category="list-text">Utilisez *le Tiering BlueXP* pour hiérarchiser les données inactives des clusters ONTAP sur site vers un stockage objet S3.</block>
@@ -218,7 +166,6 @@
   <block id="52ba8ac12050d2494572b940a0d65b25" category="paragraph"><block ref="52ba8ac12050d2494572b940a0d65b25" category="inline-link-rx"></block></block>
   <block id="9d06990508d25d367d9158c6558eb9c8" category="list-text"><block ref="9d06990508d25d367d9158c6558eb9c8" category="inline-link-macro-rx"></block></block>
   <block id="2e0c742f4616eb27b5b7646aa790edfe" category="list-text"><block ref="2e0c742f4616eb27b5b7646aa790edfe" category="inline-link-macro-rx"></block></block>
-  <block id="cf14bff66a8b72d3675db8ffe0f02ee3" category="list-text"><block ref="cf14bff66a8b72d3675db8ffe0f02ee3" category="inline-link-macro-rx"></block></block>
   <block id="e8d4092baef6680c6a35d5228ae31de2" category="paragraph"><block ref="e8d4092baef6680c6a35d5228ae31de2" category="inline-image-macro-rx" type="image"></block></block>
   <block id="0dfcbbbe02d3e96f8ad78782e8772587" category="paragraph">Il s'agit d'un ID généré par le système qui correspond à votre courrier électronique. Sur la page *NSS Management*, vous pouvez afficher votre courriel à partir du <block ref="5151db0ded96d46f40ae09b5e5b167a1" category="inline-image-macro-rx" type="image"></block> menu.</block>
   <block id="fc79de85a483938f72fbcb9822ec0ae3" category="list-text">Si vous avez besoin d'actualiser vos jetons d'identification de connexion, il existe également une option *mettre à jour les informations d'identification* dans le <block ref="5151db0ded96d46f40ae09b5e5b167a1" category="inline-image-macro-rx" type="image"></block> menu.</block>
@@ -227,15 +174,6 @@
   <block id="cb539309983b973033370e524c04a458" category="paragraph"><block ref="1872214a8e324ce93059ba6cadc608c4" category="inline-link-rx"></block>.</block>
   <block id="f055b625ba659736f2f6aeb28ac2fd85" category="paragraph"><block ref="82a8e5397a3e5ca934b7faa7a2036870" category="inline-link-rx"></block>.</block>
   <block id="5f9a9fac39700f99999345591cd72308" category="paragraph"><block ref="a4a0ad288be425d5699f257670a94893" category="inline-link-rx"></block>.</block>
-  <block id="509259be6d5e15d8959f705cbe0cbcc1" category="paragraph"><block ref="509259be6d5e15d8959f705cbe0cbcc1" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="0972db30d942fdb65d1732e6e84bde99" category="paragraph"><block ref="0972db30d942fdb65d1732e6e84bde99" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="cb6a777dd3c6e43b0dc441d38519d219" category="paragraph"><block ref="cb6a777dd3c6e43b0dc441d38519d219" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="e65065c4fd326b9f3a1eeb9453c30d73" category="paragraph"><block ref="e65065c4fd326b9f3a1eeb9453c30d73" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="2ea260929e27ffcb623c8aa35689bd18" category="paragraph"><block ref="2ea260929e27ffcb623c8aa35689bd18" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="920fe1428c19533eda6222fe7e58efbe" category="inline-link">Découvrez comment gérer les identifiants associés à votre connexion BlueXP</block>
-  <block id="e1d2e1a634647fd631081bc4f6f8e523" category="list-text">Pour utiliser la fonctionnalité *Créer un cas*, vous devez d'abord associer vos informations d'identification du site de support NetApp à votre connexion BlueXP.<block ref="2a0d8b66ca9e99d023b48cf25f40fb12" category="inline-link-rx"></block>.</block>
-  <block id="e49aa971c20ec071f1b5bbc3c7266769" category="list-text">Si vous ouvrez un dossier pour un système ONTAP doté d'un numéro de série, votre compte NSS doit être associé au numéro de série de ce système.</block>
-  <block id="c7b7a5ae9f37fd7d24e4d641b9186fe9" category="paragraph">Cette erreur peut signifier que le compte NSS et la société d'enregistrement auquel il est associé n'est pas la même société d'enregistrement pour le numéro de série du compte BlueXP (par exemple 960xxxx) ou le numéro de série de l'environnement de travail. Vous pouvez demander de l'aide en utilisant l'une des options suivantes :</block>
   <block id="28164bf9e881ddc9e7ff74744bfce180" category="paragraph">L'enregistrement des deux types de numéros de série offre des fonctionnalités telles que l'ouverture de tickets de support et la génération automatique de tickets. L'inscription est terminée en ajoutant des comptes du site de support NetApp (NSS) à BlueXP, comme décrit ci-dessous.</block>
   <block id="0c788a722f31f8f0cf36539ee04615cf" category="list-text">Sélectionnez *Ajouter des informations d'identification NSS* et suivez l'invite authentification du site de support NetApp (NSS).</block>
   <block id="10c56875db7a47f791d653e5d5bff0e9" category="inline-image-macro">Capture d'écran affichant un numéro de série de compte, une case à cocher verte et le texte enregistré pour le support.</block>
@@ -263,20 +201,8 @@
   <block id="dd38f906b37d412de7d1c1dcf4cbf31c" category="paragraph"><block ref="dd38f906b37d412de7d1c1dcf4cbf31c" category="inline-link-macro-rx"></block></block>
   <block id="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-macro"><block ref="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-rx"></block></block>
   <block id="2352c4e1f4d0024ade0869e00e6243f4" category="paragraph"><block ref="2352c4e1f4d0024ade0869e00e6243f4" category="inline-link-macro-rx"></block></block>
-  <block id="7fe6981833e8fe7fd89e0a99a55573da" category="list-text">Dans BlueXP, sélectionnez *aide &gt; support*.</block>
-  <block id="6a1b74969231967ed071d465206b15c7" category="list-text">Sélectionnez *appelez-nous* si vous souhaitez parler avec quelqu'un au téléphone. Vous serez dirigé vers une page netapp.com qui répertorie les numéros de téléphone que vous pouvez appeler.</block>
-  <block id="d65a2a6fc9caad1867728d4382eeb989" category="list-text">Sélectionnez *Créer un cas* pour ouvrir un ticket avec un spécialiste du support NetApp :</block>
-  <block id="0ff9b4b8684b9e03c9c1e1320935eae3" category="paragraph">Pour un historique de vos dossiers de support, vous pouvez sélectionner *Paramètres &gt; Chronologie* et rechercher les actions nommées "Créer un dossier de support". Un bouton situé à l'extrême droite vous permet de développer l'action pour afficher les détails.</block>
-  <block id="0a4050ac39772e9281a9aba225254bf8" category="list-text">Sélectionnez *case Management* et si vous y êtes invité, ajoutez votre compte NSS à BlueXP.</block>
-  <block id="1d39d3ab518e1e3f16cbafb2a56e1fd9" category="list-text">Sous *cas de l'organisation*, sélectionnez *Afficher* pour afficher tous les cas associés à votre société.</block>
-  <block id="cdf14d2156528231a5dbd12ad5c95d3f" category="list-text">Modifiez les colonnes qui apparaissent dans le tableau en sélectionnant <block ref="b574dd55d604ddb721d869a0fc302007" category="inline-image-macro-rx" type="image"></block> puis choisissez les colonnes que vous souhaitez afficher.</block>
-  <block id="348552521b849746260fe8d296d34c15" category="list-text">Gérer un dossier existant en sélectionnant <block ref="566c029d89e7d5421080767a37bf443e" category="inline-image-macro-rx" type="image"></block> et en sélectionnant l'une des options disponibles :</block>
-  <block id="bb6d5d351525342dd6b3cf4d15b6f298" category="list-text">*Fermer le cas* : fournissez des détails sur la raison pour laquelle vous fermez le cas et sélectionnez *Fermer le cas*.</block>
   <block id="ece19bab46695021f109a5e50f08bebe" category="paragraph">L'enregistrement au support est requis pour recevoir le support technique spécifique à BlueXP et à ses solutions et services de stockage. L'enregistrement au support est également requis pour activer les principaux workflows des systèmes Cloud Volumes ONTAP.</block>
   <block id="8a3d807608e632d188a288fc5f4aa7eb" category="paragraph">L'inscription au support n'active pas le support NetApp pour un service de fichiers de fournisseur cloud. Pour obtenir de l'aide concernant un service de fichiers d'un fournisseur cloud, son infrastructure ou toute solution utilisant le service, consultez la section « obtention d'aide » de la documentation BlueXP associée à ce produit.</block>
-  <block id="522cbb900314aeb84eb5a961c5f94672" category="section-title">Bénéficiez du support pour les services de fichiers d'un fournisseur cloud</block>
-  <block id="f6185bb12f5e53c800be8cda7fbca65b" category="paragraph">Pour obtenir de l'aide concernant un service de fichiers d'un fournisseur cloud, son infrastructure ou toute solution utilisant le service, consultez la section « obtention d'aide » de la documentation BlueXP associée à ce produit.</block>
-  <block id="3880ae5df9fdc4d0fc4a6d00a2239530" category="paragraph">Pour bénéficier du support technique spécifique à BlueXP et à ses solutions et services de stockage, utilisez les options de support décrites ci-dessous.</block>
   <block id="d59e0b46782e48a01966e5c7ccc38d17" category="paragraph">NetApp utilise Microsoft Entra ID comme fournisseur d'identité pour les services d'authentification spécifiques à la prise en charge et à l'octroi de licences.</block>
   <block id="9734d11f1da890ec7434857fd054fb47" category="sidebar">Modifier les paramètres du godet</block>
   <block id="ab066b3292d8ab61ef3b5c77169cdd19" category="sidebar">Plus d'informations</block>
@@ -285,7 +211,6 @@
   <block id="dd490b81914dd945601e442a41cb4222" category="sidebar">Communauté NetApp</block>
   <block id="bd5465eb0e8cf8f303aee7ea9420c8b1" category="sidebar">Blog BlueXP</block>
   <block id="ad203e818e0c9d7f42f1c260b33875f3" category="sidebar">Webinaires sur le cloud</block>
-  <block id="98d90e398fc56688ddc647e5f49075ec" category="paragraph">La liste des environnements de travail s'applique à l'organisation (ou au compte), au projet (ou à l'espace de travail) et au connecteur BlueXP  que vous avez sélectionnés dans la bannière supérieure du service.</block>
   <block id="29360bfcdbc91d3f1514c372b4585965" category="list-text">Enregistrement du numéro de série de votre compte BlueXP  (votre numéro de série 960xxxxxxxxx à 20 chiffres, disponible sur la page des ressources de support de BlueXP ).</block>
   <block id="444b74bc81e823cc1c4c704219ad8ed3" category="section-title">Enregistrez BlueXP  pour bénéficier du support NetApp</block>
   <block id="b3bf31f8a918c712f26cdf493a908825" category="paragraph">Pour vous inscrire au support et activer votre droit de support, un utilisateur de votre entreprise (ou compte) BlueXP  doit associer un compte du site de support NetApp à ses identifiants BlueXP . Le fait de vous inscrire au support NetApp dépend de la présence ou non d'un compte sur le site de support NetApp (NSS).</block>
@@ -296,4 +221,6 @@
   <block id="c81c8e01f5d906ae1ab0c5c606f06b05" category="paragraph">L'association des informations d'identification NSS à votre organisation BlueXP  est différente du compte NSS associé à une connexion utilisateur BlueXP .</block>
   <block id="8166996cb4a59c147200d89a061bb49c" category="paragraph">Ces informations d'identification NSS sont associées à votre identifiant d'organisation BlueXP  spécifique. Les utilisateurs qui appartiennent à l'organisation BlueXP  peuvent accéder à ces informations d'identification à partir de *support &gt; gestion NSS*.</block>
   <block id="7e4353e591e7ee71b0cc70a66b02ee7a" category="paragraph">Vous avez depuis longtemps la possibilité d'afficher les compartiments Amazon S3 sur BlueXP Canvas. Vous pouvez désormais ajouter de nouveaux compartiments et modifier les propriétés des compartiments existants directement à partir de BlueXP .<block ref="f5358cf9e8e537088a631ff4313d8401" category="inline-link-rx"></block>.</block>
+  <block id="1215f8190533dfdf63d2224a6d88266f" category="inline-link-macro">Google Cloud NetApp volumes</block>
+  <block id="cb4bf32603c89d08cad17e7e7dd302f2" category="list-text"><block ref="cb4bf32603c89d08cad17e7e7dd302f2" category="inline-link-macro-rx"></block></block>
 </blocks>
